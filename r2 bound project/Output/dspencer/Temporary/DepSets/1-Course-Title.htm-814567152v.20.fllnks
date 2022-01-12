@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="course-title-topic"
+  FileSearchable="false"
+  MasterPage="file:///C:/Users/dspencer/Desktop/R2 main/r2 bound project/Content/Resources/TemplatePages/Course-Title.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TemplatePages/Course-Title.flmsp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Course-Content/2-Just-Text.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TemplatePages/Course-Title.flmsp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Course-Content/2-Just-Text.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.CombinationCourseOnly" />
+    <Condition
+      Tag="Default.KnowledgeCheckOnly" />
+    <Condition
+      Tag="Default.TestOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
